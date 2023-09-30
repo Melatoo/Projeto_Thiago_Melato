@@ -9,8 +9,4 @@ public class C {
     public void MC2() {
         System.out.println("MC2");
     }
-    //Aplique um commit na classe C enviando a mensagem “Criação da Classe C”
-    //o comando a ser executado é git commit -m "Criação da Classe C"
-
-
 }
