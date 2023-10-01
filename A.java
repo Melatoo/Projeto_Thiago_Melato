@@ -7,6 +7,10 @@ public class A {
         return A1;
     }
 
+    public int getSoma(int a, int b){
+        return a+b;
+    }
+
     public float getA2() {
         return A2;
     }
